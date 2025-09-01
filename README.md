@@ -11,8 +11,7 @@
 
 [「次またやられたら、ここに住むまい」　多重被災が突きつける現実]( https://digital.asahi.com/articles/AST8X1FL8T8XUNHB001M.html)
 
-<img src="image/%E5%A4%9A%E9%87%8D%E8%A2%AB%E7%81%BD%E7%B4%99%E9%9D%A2.jpg" width="300">
-![](https://github.com/ryomakom/multiple_disasters/blob/main/image/%E5%A4%9A%E9%87%8D%E8%A2%AB%E7%81%BD%E7%B4%99%E9%9D%A2.jpg){width=50%}
+<img src="image/%E5%A4%9A%E9%87%8D%E8%A2%AB%E7%81%BD%E7%B4%99%E9%9D%A2.jpg" width=50%>
 
 データには災害救助法が適用された日時と都道府県名、市区町村名のほか、自治体コード、災害名と災害種別が含まれています。災害救助法の条文にある何号が適用されたかについても、2010年以降のぶんについては記載しました。
 
