@@ -7,7 +7,7 @@
 
 2011年以降に複数回にわたって災害を経験した自治体が全市区町村の3割あることがわかった、という朝日新聞の記事（2025年9月1日付朝刊1、2面掲載）のデータを公開します。国が復旧などを支援する「災害救助法」を適用されていることをもって「災害を経験した」と定義しています。
 
-[市区町村の3割が「多重被災」　国から支援、2011年以降に複数回](https://digital.asahi.com/articles/AST8X0FYWT8XULLI00DM.htm)
+[市区町村の3割が「多重被災」　国から支援、2011年以降に複数回](https://digital.asahi.com/articles/AST8X0FYWT8XULLI00DM.html)
 
 [「次またやられたら、ここに住むまい」　多重被災が突きつける現実](https://digital.asahi.com/articles/AST8X1FL8T8XUNHB001M.html)
 
